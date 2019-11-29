@@ -2076,10 +2076,7 @@ img {
 
 .gutters .grid-item {
   margin-bottom: 30px;
-    display: flex;
-    text-align: center;
-    align-items: center;
-  justify-content: center;
+
 }
 
 .grid-item input[type=submit] {
